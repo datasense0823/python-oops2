@@ -12,7 +12,7 @@ Design a simple gaming platform using Object-Oriented Programming (OOP) principl
 
 ---
 
-## 🧩 Real-World Scenario
+## Scenario
 
 You are building a backend for a basic gaming platform called **PlayZone**. On this platform:
 
